@@ -21,16 +21,6 @@ As tarefas são salvas no **localStorage**, garantindo persistência mesmo ao re
 
 ---
 
-## 📸 Demonstração
-
-(Adicione uma imagem do projeto depois — ajuda muito no portfólio)
-
-
-yaml
-Copiar código
-
----
-
 ## 🎯 Funcionalidades
 
 - Adicionar novas tarefas  
